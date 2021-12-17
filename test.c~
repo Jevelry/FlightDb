@@ -1,0 +1,20 @@
+
+#include <assert.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+#include "List.h"
+#include "Record.h"
+#include "AVLTree.h"
+#include "FlightDb.h"
+
+// TODO: Add your tests to this file 
+
+/*
+ * The following template is just a partial example to quickly 
+ * create FlightDb for your testing.
+*/
+
+
+////////////////////////////////////////////////////////////////////////
+
